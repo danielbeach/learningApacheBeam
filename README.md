@@ -9,5 +9,5 @@ To get started...
 - `pip3 install apache-beam`
 
 Then to run the code...
-- `python3 my_first_beam_pipeline.py --output output.txt --input 202007-divvy-tripdata.csv`
+- `python3 pythonWithApacheBeam.py --output output.txt --input 202007-divvy-tripdata.csv`
 
